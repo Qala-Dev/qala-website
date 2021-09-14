@@ -10965,6 +10965,7 @@ p {
     font-size: 0.95rem;
     color: black;
     letter-spacing: 0.0625em;
+    font-weight: 800;
   }
 
   #mainNav.navbar-shrink {
@@ -10992,7 +10993,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/landscape.jpg");
+  background-image: url("../assets/img/qala_banner.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
