@@ -10999,6 +10999,11 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
+@media (max-width: 1200px) {
+  header.masthead {
+    background-image: url("../assets/img/mobile_banner.jpg");
+  }
+}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
