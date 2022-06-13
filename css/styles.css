@@ -11317,7 +11317,7 @@ header.masthead .masthead-heading {
   min-height: 40px;
 }
 
-#organizers .team-member{
+#organizers .team-member, #participants .team-member {
   margin-bottom: 3rem;
   text-align: center;
   width: auto;
